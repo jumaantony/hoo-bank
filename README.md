@@ -4,7 +4,7 @@
 
 This project is created using reactJs and Tailwind CSS. 
 
-You can view the project [here](https://jumaantony.github.io/hoobank/)
+You can view the project [here](https://jumaantony.github.io/hoo-bank/)
 
 It is a transformation of a [Figma Design](https://www.figma.com/file/bUGIPys15E78w9bs1l4tgS/HooBank?node-id=310%3A485) .
 
